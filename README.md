@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently a student at IIT Delhi.
+- 🔭 I'm doing B.Tech. in Mathematics and Computing.
+- 😄 Pronouns: He/Him
 
 <!--
 **Madhav-Bansal06/Madhav-Bansal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
